@@ -5,3 +5,5 @@
 ### 🔭 스터디 일정은 아래의 링크 참고하세요
  
    - https://pseudo-lab.com/NLP-3bd8e816b5cd40dea8e2190a627f383b
+
+### 🔭 책의 실습예제 Link: https://github.com/ratsgo/nlpbook
